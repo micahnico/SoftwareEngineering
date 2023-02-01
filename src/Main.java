@@ -1,5 +1,8 @@
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Hello World, from Jonathan's branch");
+    print();
+  }
+  public static void print(){
+    System.out.println("Hello World");
   }
 }
